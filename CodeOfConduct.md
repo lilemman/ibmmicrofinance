@@ -1,0 +1,1 @@
+Every member of the team can fork the project, clone it and make changes. Once changes are completed, please commit a message explaining the changes made. Thank you
